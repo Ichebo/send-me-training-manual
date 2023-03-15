@@ -2,6 +2,17 @@
 
 ## Curriculum
 
+## Secrets To a Fulfilled Life (Personal-Life Skills Development)
+
+### Basic of Christian Living
+
+### Basics of Spiritual Living
+
+### The Calling
+
+- Types of Calling
+- The awakening process
+
 ## Communication Skills
 
 - Public Speaking
@@ -14,6 +25,11 @@
 - Developing your presentation
 - Presenting
 
+### Delivery of the Message
+
+- Your tone
+- 
+
 
 ## Prophet's Bootcamp (Prophetic SKills Development)
 
@@ -23,11 +39,7 @@
     - Entities 
     - discerning motives
 
-## Secrets To a Fulfilled Life (Personal-Life Skills Development)
 
-    - The Calling
-    - Types of Calling
-    - The awakening process
 
 ## The Statememts
 
